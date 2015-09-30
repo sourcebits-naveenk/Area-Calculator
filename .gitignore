@@ -57,3 +57,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+# Files to be ignored
+*.class
+*.dex
+*.bin/
+*.gen/
+*.apk
+*.classpath
+*.project
+
+
